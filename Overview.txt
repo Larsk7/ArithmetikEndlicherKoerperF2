@@ -1,0 +1,11 @@
+implemented fuctions:
+- represent binary tuple as Polynom
+- add polynoms
+- polynomdivision
+- check for minimal polynom
+- multiply polynoms and reduce with minimalpolynom (≙relation)
+
+up next:
+- Euclid´s algorithm for polynoms
+- alternative implementation of polynom-multiplication
+-> compare performance between the different implemations  
