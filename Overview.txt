@@ -4,8 +4,8 @@ implemented fuctions:
 - polynomdivision
 - check for minimal polynom
 - multiply polynoms and reduce with minimalpolynom (≙relation)
+- Euclid´s algorithm for polynoms
 
 up next:
-- Euclid´s algorithm for polynoms
 - alternative implementation of polynom-multiplication
 -> compare performance between the different implemations  
