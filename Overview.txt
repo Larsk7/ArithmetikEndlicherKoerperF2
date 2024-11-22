@@ -5,7 +5,9 @@ implemented fuctions:
 - check for minimal polynom
 - multiply polynoms and reduce with minimalpolynom (≙relation)
 - Euclid´s algorithm for polynoms
-
-up next:
 - alternative implementation of polynom-multiplication
--> compare performance between the different implemations  
+-> compare performance between the different implemations 
+ 
+up next:
+- Cantor-Zassenhaus-Algorythm
+- Quadratic equations (in char2)
