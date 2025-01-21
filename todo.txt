@@ -1,5 +1,3 @@
 Funktionen erläutern 
-LaTeX tool
 Beispielrechnungen?
-Formale Sachen wie Schriftgröße klären
 Cantor-Zassenhaus
