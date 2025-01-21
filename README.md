@@ -12,4 +12,4 @@
   
 # Up next:
 - Cantor-Zassenhaus-Algorythm
-[- Quadratic equations (in char2)]
+- [Quadratic equations (in char2)]
