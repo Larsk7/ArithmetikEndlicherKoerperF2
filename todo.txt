@@ -1,3 +1,5 @@
-Funktionen erläutern 
-Beispielrechnungen?
-Cantor-Zassenhaus
+CZH: e = ... , h = ... in einer Zeile
+
+MP2: degree = ..., max_divisor_degree = ... in einer Zeile
+
+in CZH: i = ... und dann range(1, ...)
