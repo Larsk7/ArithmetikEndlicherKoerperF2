@@ -9,6 +9,12 @@
 
 - Multiplikations-Vergleich in Ausarbeitung beschreiben
 
+----------
+
+- Vergleich MinPols mit CZH (Notebook zum systematischen Test)
+
+- Vergleich in Ausarbeitung beschreiben
+  
 ---------- 
 
 - Theorieteil!

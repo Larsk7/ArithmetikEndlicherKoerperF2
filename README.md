@@ -16,4 +16,5 @@ https://de.overleaf.com/read/bnsrwsjnrnvj#c4d884
 - Notebook to check if both multiplications get the same results and to compare their processing time (CompareMultiplications.ipynb)
   
 # Up next:
+- Notebook to check if 'MinPols' and 'CZH' get the same results and to compare their processing time (_.ipynb)
 - [Quadratic equations (in char2)]
