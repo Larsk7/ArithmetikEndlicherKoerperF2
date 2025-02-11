@@ -11,10 +11,10 @@ https://de.overleaf.com/read/bnsrwsjnrnvj#c4d884
 - Function to execute Euclid´s algorithm for polynoms (Euclid.ipynb)
 - Function to do an alternative way of polynom-multiplication (AlternativeMultiplication.ipynb)
 - Cantor-Zassenhaus-Algorithm (CantorZassenhaus.ipynb)
-</br></br>
+## Testing
 - Notebook to test and check all functions (TestNotebook.ipynb)
 - Notebook to check if both multiplications get the same results and to compare their processing time (CompareMultiplications.ipynb)
+- Notebook to check if 'MinPols' and 'CZH' get the same results and to compare their processing time (CompareMinPol-CZH.ipynb)
   
 # Up next:
-- Notebook to check if 'MinPols' and 'CZH' get the same results and to compare their processing time (CompareMinPol-CZH.ipynb)
 - [Quadratic equations (in char2)]
